@@ -1,0 +1,13 @@
+# Crawl of https://mcprod.pa-store.acer.com/en-us/extended/recovery
+
+| Setting | Value |
+|---------|-------|
+| Depth | 2 |
+| Delay | 0.25s |
+| Download extensions | zip,exe,rar,bin,7z,apk,img,iso |
+| Upload extensions | all |
+| Concurrency | auto workers |
+| Git push every | 100 files |
+| Debug | false |
+| Run | #18 |
+| Status | 🔄 Crawling in progress… |
