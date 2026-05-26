@@ -1,0 +1,162 @@
+###############################################
+User-agent:*
+Allow: /
+Disallow: /en-us/*/?q=
+Disallow: /en-us/*/result/index/q/
+Disallow: /en-us/checkout/
+Disallow: /en-us/*/account/
+Disallow: /en-ca/*/?q=
+Disallow: /en-ca/*/result/index/q/
+Disallow: /en-ca/checkout/
+Disallow: /en-ca/*/account/
+Disallow: /fr-ca/*/?q=
+Disallow: /fr-ca/*/result/index/q/
+Disallow: /fr-ca/checkout/
+Disallow: /fr-ca/*/account/
+Disallow: /fr-fr/*?*
+Disallow: /fr-fr/checkout/
+Disallow: /fr-fr/helpdesk/
+Disallow: /fr-fr/*/account/
+Disallow: /de-de/*?*
+Disallow: /de-de/checkout/
+Disallow: /de-de/helpdesk/
+Disallow: /de-de/*/account/
+Disallow: /it-it/*?*
+Disallow: /it-it/checkout/
+Disallow: /it-it/helpdesk/
+Disallow: /it-it/*/account/
+Disallow: /pl-pl/*?*
+Disallow: /pl-pl/checkout/
+Disallow: /pl-pl/helpdesk/
+Disallow: /pl-pl/*/account/
+Disallow: /en-gb/*?*
+Disallow: /en-gb/checkout/
+Disallow: /en-gb/helpdesk/
+Disallow: /en-gb/*/account/
+Disallow: /en-ie/*?*
+Disallow: /en-ie/checkout/
+Disallow: /en-ie/helpdesk/
+Disallow: /en-ie/*/account/
+Disallow: /nl-nl/*?*
+Disallow: /nl-nl/checkout/
+Disallow: /nl-nl/helpdesk/
+Disallow: /nl-nl/*/account/
+Disallow: /es-es/*?*
+Disallow: /es-es/checkout/
+Disallow: /es-es/helpdesk/
+Disallow: /es-es/*/account/
+Disallow: /fr-ch/*?*
+Disallow: /fr-ch/checkout/
+Disallow: /fr-ch/helpdesk/
+Disallow: /fr-ch/*/account/
+Disallow: /de-ch/*?*
+Disallow: /de-ch/checkout/
+Disallow: /de-ch/helpdesk/
+Disallow: /de-ch/*/account/
+Disallow: /da-dk/*?*
+Disallow: /da-dk/checkout/
+Disallow: /da-dk/helpdesk/
+Disallow: /da-dk/*/account/
+Disallow: /fi-fi/*?*
+Disallow: /fi-fi/checkout/
+Disallow: /fi-fi/helpdesk/
+Disallow: /fi-fi/*/account/
+Disallow: /sv-se/*?*
+Disallow: /sv-se/checkout/
+Disallow: /sv-se/helpdesk/
+Disallow: /sv-se/*/account/
+Disallow: /no-no/*?*
+Disallow: /no-no/checkout/
+Disallow: /no-no/helpdesk/
+Disallow: /no-no/*/account/
+Disallow: /fr-be/*?*
+Disallow: /fr-be/checkout/
+Disallow: /fr-be/helpdesk/
+Disallow: /fr-be/*/account/
+Disallow: /nl-be/*?*
+Disallow: /nl-be/checkout/
+Disallow: /nl-be/helpdesk/
+Disallow: /nl-be/*/account/
+Disallow: /zh-tw/*?*
+Disallow: /zh-tw/checkout/
+Disallow: /zh-tw/*/account/
+Disallow: /ja-jp/*?*
+Disallow: /ja-jp/checkout/
+Disallow: /ja-jp/*/account/
+Disallow: /th-th/*?*
+Disallow: /th-th/checkout/
+Disallow: /th-th/*/account/
+Disallow: /en-au/*?*
+Disallow: /en-au/checkout/
+Disallow: /en-au/*/account/
+Disallow: /en-id/*?*
+Disallow: /en-id/checkout/
+Disallow: /en-id/*/account/
+Disallow: /en-in/*?*
+Disallow: /en-in/checkout/
+Disallow: /en-in/*/account/
+Disallow: /en-my/*?*
+Disallow: /en-my/checkout/
+Disallow: /en-my/*/account/
+Disallow: /en-ph/*?*
+Disallow: /en-ph/checkout/
+Disallow: /en-ph/*/account/
+Disallow: /en-sg/*?*
+Disallow: /en-sg/checkout/
+Disallow: /en-sg/*/account/
+Disallow: /zh-hk/*?*
+Disallow: /zh-hk/checkout/
+Disallow: /zh-hk/*/account/
+Disallow: /vi-vn/*?*
+Disallow: /vi-vn/checkout/
+Disallow: /vi-vn/*/account/
+Disallow: /index.php/
+Disallow: /*?
+Disallow: /checkout/
+Disallow: /app/
+Disallow: /lib/
+Disallow: /*.php$
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /var/
+Disallow: /catalog/
+Disallow: /customer/
+Disallow: /sendfriend/
+Disallow: /review/
+Disallow: /*SID=
+Allow: /*.css?*
+
+#Index Sitemaps
+Sitemap:https://store.acer.com/en-ca/media/sitemaps/en-ca/sitemap.xml
+Sitemap:https://store.acer.com/fr-ca/media/sitemaps/fr-ca/sitemap.xml
+Sitemap:https://store.acer.com/en-us/media/sitemaps/en-us/sitemap.xml
+Sitemap:https://store.acer.com/fr-fr/media/sitemaps/FR/sitemap.xml
+Sitemap:https://store.acer.com/de-de/media/sitemaps/DE/sitemap.xml
+Sitemap:https://store.acer.com/pl-pl/media/sitemaps/PL/sitemap.xml
+Sitemap:https://store.acer.com/nl-nl/media/sitemaps/NL/sitemap.xml
+Sitemap:https://store.acer.com/en-ie/media/sitemaps/IE/sitemap.xml
+Sitemap:https://store.acer.com/it-it/media/sitemaps/IT/sitemap.xml
+Sitemap:https://store.acer.com/es-es/media/sitemaps/ES/sitemap.xml
+Sitemap:https://store.acer.com/en-gb/media/sitemaps/GB/sitemap.xml
+Sitemap:https://store.acer.com/fr-ch/media/sitemaps/FR-CH/sitemap.xml
+Sitemap:https://store.acer.com/de-ch/media/sitemaps/DE-CH/sitemap.xml
+Sitemap:https://store.acer.com/da-dk/media/sitemaps/DK/sitemap.xml
+Sitemap:https://store.acer.com/fi-fi/media/sitemaps/FI/sitemap.xml
+Sitemap:https://store.acer.com/sv-se/media/sitemaps/SE/sitemap.xml
+Sitemap:https://store.acer.com/fr-be/media/sitemaps/FR-BE/sitemap.xml
+Sitemap:https://store.acer.com/nl-be/media/sitemaps/NL-BE/sitemap.xml
+Sitemap:https://store.acer.com/no-no/media/sitemaps/NO/sitemap.xml
+Sitemap:https://store.acer.com/zh-tw/media/sitemaps/zh-tw/sitemap.xml
+Sitemap:https://store.acer.com/ja-jp/media/sitemaps/ja-jp/sitemap.xml
+Sitemap:https://store.acer.com/th-th/media/sitemaps/th-th/sitemap.xml
+Sitemap:https://store.acer.com/en-au/media/sitemaps/en-au/sitemap.xml
+Sitemap:https://store.acer.com/en-id/media/sitemaps/en-id/sitemap.xml
+Sitemap:https://store.acer.com/en-in/media/sitemaps/en-in/sitemap.xml
+Sitemap:https://store.acer.com/en-my/media/sitemaps/en-my/sitemap.xml
+Sitemap:https://store.acer.com/en-ph/media/sitemaps/en-ph/sitemap.xml
+Sitemap:https://store.acer.com/en-sg/media/sitemaps/en-sg/sitemap.xml
+Sitemap:https://store.acer.com/zh-hk/media/sitemaps/zh-hk/sitemap.xml
+Sitemap:https://store.acer.com/vi-vn/media/sitemaps/vi-vn/sitemap.xml
+Sitemap:https://store.acer.com/sitemap/global-sitemap-home.xml
+Sitemap:https://store.acer.com/sitemap/global-sitemap-category.xml
+Sitemap:https://store.acer.com/sitemap/global-sitemap-special-category.xml
